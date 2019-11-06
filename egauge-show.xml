@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE group PUBLIC "-//ESL/DTD eGauge 1.0//EN" "http://www.egauge.net/DTD/egauge-hist.dtd">
+<group serial="0x7">
+<data columns="11" time_stamp="0x5dc084a8" time_delta="60" epoch="0x5db5cd88">
+ <cname t="P" did="0">Grid</cname>
+ <cname t="P" did="1">Grid+</cname>
+ <cname t="P" did="2">Office</cname>
+ <cname t="P" did="3">Garage Heater</cname>
+ <cname t="P" did="4">Living Room Heat</cname>
+ <cname t="P" did="5">Bedroom/Office Heat</cname>
+ <cname t="P" did="6">Garage/Galley/Bath Heat</cname>
+ <cname t="P" did="8">240V Shop Plug</cname>
+ <cname t="P" did="7">Water Heater</cname>
+ <cname t="P" did="9">Range</cname>
+ <cname t="h" did="10">Connection Quality</cname>
+ <r><c>-1368833047</c><c>-8322414</c><c>-209936197</c><c>244512854</c><c>-516571659</c><c>-30182486</c><c>798376946</c><c>-10482087</c><c>843505232</c><c>-5727816</c><c>25088660000</c></r>
+ <r><c>-1368806699</c><c>-8322414</c><c>-209919875</c><c>244513095</c><c>-516571623</c><c>-30182470</c><c>798376985</c><c>-10482072</c><c>843505245</c><c>-5727799</c><c>25086060000</c></r>
+ <r><c>-1368780456</c><c>-8322414</c><c>-209903677</c><c>244513332</c><c>-516571585</c><c>-30182456</c><c>798377020</c><c>-10482052</c><c>843505262</c><c>-5727792</c><c>25085676000</c></r>
+</data>
+</group>
